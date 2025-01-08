@@ -1,0 +1,36 @@
+gabriels-products-frontend/
+│
+├── src/
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Navbar.js
+│   │   │   └── Footer.js
+│   │   │
+│   │   ├── farm/
+│   │   │   ├── FarmStory.js
+│   │   │   └── OwnerProfile.js
+│   │   │
+│   │   ├── products/
+│   │   │   ├── ProductCard.js
+│   │   │   ├── ProductList.js
+│   │   │   └── ProductDetails.js
+│   │   │
+│   │   └── order/
+│   │       ├── OrderForm.js
+│   │       └── CartComponent.js
+│   │
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   ├── AboutPage.js
+│   │   ├── ProductsPage.js
+│   │   ├── ContactPage.js
+│   │   └── OrderPage.js
+│   │
+│   ├── services/
+│   │   ├── productService.js
+│   │   └── orderService.js
+│   │
+│   └── styles/
+│       └── index.css
+│
+└── package.json
